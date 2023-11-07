@@ -1,2 +1,2 @@
-# frejatest
+halloooo?? # frejatest
 `ls` er en kommando
